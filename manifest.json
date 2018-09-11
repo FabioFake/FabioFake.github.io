@@ -12,7 +12,7 @@
     "lang": "en-US",
     "icons":[
         {
-            "src": "assets/images/android-icon.jpeg",
+            "src": "assets/images/android-icon.png",
             "type": "image/jpeg",
             "sizes": "144x144"
         }
