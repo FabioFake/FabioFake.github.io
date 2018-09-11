@@ -13,7 +13,7 @@
     "icons":[
         {
             "src": "assets/images/android-icon.png",
-            "type": "image/jpeg",
+            "type": "image/png",
             "sizes": "144x144"
         }
     ]
