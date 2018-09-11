@@ -10,13 +10,6 @@
     "orientation": "portrait-primary",
     "dir": "ltr",
     "lang": "en-US",
-    "related_applications": [
-        {
-            "platform": "play",
-            "url": "https://play.google.com/.../app_name",
-            "id": "com.example.app"
-        }
-    ],
     "icons":[
         {
             "src": "assets/images/android-icon.jpeg",
