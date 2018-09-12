@@ -1,6 +1,6 @@
 {
     "name": "Gerador Palpites Mega Sena",
-    "shor-name": "gerador_palpites_megasena",
+    "short-name": "gerador_palpites_megasena",
     "description": "Gerador de Palpites da Mega Sena",
     "start_url": "/index.html",
     "scope": ".",
