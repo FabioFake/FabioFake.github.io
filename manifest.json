@@ -1,7 +1,7 @@
 {
-    "name": "Only Manifest",
-    "shor-name": "only_manifest",
-    "description": "dummy application to demos manifest without SW",
+    "name": "Gerador Palpites Mega Sena",
+    "shor-name": "gerador_palpites_megasena",
+    "description": "Gerador de Palpites da Mega Sena",
     "start_url": "/index.html",
     "scope": ".",
     "background_color": "#EEE",
